@@ -1,7 +1,7 @@
-# Banking System (Java)
+# Banking Manager (Java)
 
 ## Description
-A **console-based Banking System** implemented in Java that simulates basic banking operations such as creating accounts, depositing and withdrawing funds, applying interest, and displaying account details.
+A **console-based Banking system** implemented in Java that simulates basic banking operations such as creating accounts, depositing and withdrawing funds, applying interest, and displaying account details.
 Through this project, I learned **object-oriented programming**, **inheritance**, and **polymorphism** through different account types (Savings and Checking), along with input validation and user interaction.
 
 ## Features
